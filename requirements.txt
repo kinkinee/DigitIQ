@@ -1,8 +1,8 @@
-tensorflow
-numpy
-matplotlib
 streamlit
+tensorflow==2.16.1
+numpy==1.26.4
+opencv-python-headless
 pillow
-opencv-python
-streamlit-drawable-canvas
+matplotlib
 scipy
+streamlit-drawable-canvas
